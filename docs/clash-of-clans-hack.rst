@@ -4,10 +4,10 @@ H1
 H2
 ---------
 
-### Heading level 3
+
 
 
 The Last Markdown Editor
 
-[Go to online generator](https://i.imgur.com/M1UwH3R.png)](https://gsp.ro)
+[![An old rock in the desert](https://i.imgur.com/M1UwH3R.png "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com)
 
