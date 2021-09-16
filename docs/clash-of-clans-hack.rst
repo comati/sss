@@ -9,5 +9,5 @@ H2
 
 The Last Markdown Editor
 
-[![N|Solid](https://i.imgur.com/M1UwH3R.png)](https://gsp.ro)
+[Go to online generator](https://i.imgur.com/M1UwH3R.png)](https://gsp.ro)
 
