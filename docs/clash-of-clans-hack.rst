@@ -4,10 +4,23 @@ H1
 H2
 ---------
 
-
+Link : htp://google.com
 
 
 The Last Markdown Editor
 
-[![An old rock in the desert](https://i.imgur.com/M1UwH3R.png "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com)
+Get the latest news at `CNN`_.
 
+.. _CNN: http://cnn.com/
+
+Italic Text
+---------
+Use single asterisks to show text as italic, or emphasized, for example when introducing a new term.
+
+A *title* is about . . .
+
+Bold Text
+---------
+Use double asterisks to show text as bold, or strong.
+
+Select **Sign In**
